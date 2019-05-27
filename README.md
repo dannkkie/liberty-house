@@ -1,10 +1,7 @@
-# flutter_property_finder
+# Liberty House
 
-A property listings app built using Flutter sdk. 
+A real estate listings app built using Flutter sdk. 
 
-## Tutorial Link
-Watch as i guide you step by step on how to build this application from scratch. 
-YouTube Playlist [here](https://www.youtube.com/watch?v=DLbD9XPnUQc&list=PLkf3n4moMnEC8QwziPjTW1tOa3SIqBk6B)
 
 ### What you'll learn
 - JSON serialization using built_value
