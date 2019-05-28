@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:flutter_property_finder/api/property_scoped_model.dart';
 import 'package:flutter_property_finder/screens/detail_screen.dart';
 import 'package:flutter_property_finder/ui_widgets/property_item.dart';

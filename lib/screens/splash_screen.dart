@@ -35,15 +35,20 @@ class _SplashScreenState extends State<SplashScreen> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
-                      CircleAvatar(
-                        backgroundColor: Colors.white,
-                        radius: 50.0,
-                        child: Icon(
-                          Icons.explore,
-                          color: Colors.greenAccent,
-                          size: 50.0,
-                        ),
+                      Image.asset(
+                        'images/logo.png',
+                        width: 250.0,
+                        height: 100.0,
                       ),
+                      // CircleAvatar(
+                      //   backgroundColor: Colors.white,
+                      //   radius: 50.0,
+                      //   child: Icon(
+                      //     Icons.explore,
+                      //     color: Colors.greenAccent,
+                      //     size: 50.0,
+                      //   ),
+                      // ),
                       Padding(
                         padding: EdgeInsets.only(top: 10.0),
                       ),
